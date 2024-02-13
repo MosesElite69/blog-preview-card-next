@@ -1,0 +1,20 @@
+import Image from "next/image";
+import Footer from "./ui/Footer";
+
+export default function Home() {
+  return (
+    <main className="">
+      
+  Learning
+
+Published 21 Dec 2023
+
+HTML & CSS foundations
+
+These languages are the backbone of every website, defining structure, content, and presentation.
+
+Greg Hooper
+<Footer/>
+    </main>
+  );
+}
